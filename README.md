@@ -7,7 +7,7 @@
 ---
 
 ## 🧠 About Me
-- 🔭 Currently working as a Intern at Heerix Technologies
+- 🔭 Currently working as a SE Intern at LocalButcher 
 - 🤖 Built projects using React, FastAPI, and AI-based workflows
 - 📚 Solved 250+ DSA problems on LeetCode
 - 🌱 Learning Full Stack Development + AI Systems
