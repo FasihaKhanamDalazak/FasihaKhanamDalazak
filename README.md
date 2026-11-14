@@ -117,7 +117,6 @@ A collaborative code editor where multiple users can code together, see live cur
   <img
     src="https://raw.githubusercontent.com/FasihaKhanamDalazak/FasihaKhanamDalazak/output/github-snake-blue.svg"
     alt="Blue GitHub contribution snake"
-    width="100%"
   />
 </p>
 
